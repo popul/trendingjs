@@ -1,0 +1,12 @@
+{
+  "name": "trendingjs",
+  "version": "1.0.0",
+  "description": "Dashboard for trending js subjects",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/popul/trendingjs.git",
+    "type": "git"
+  },
+  "author": "Paul Musso<paul@musso.io>",
+  "license": "MIT"
+}
